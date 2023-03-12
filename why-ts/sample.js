@@ -18,4 +18,4 @@ function sum(a, b) {
 }
 
 
-sum(10, `20`)
+sum(10, 20)
